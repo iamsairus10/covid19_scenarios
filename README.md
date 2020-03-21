@@ -14,7 +14,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://neherlab.org/covid19/">
+  <a href="https://neherlab.org/covid19">
     🌐 neherlab.org/covid19/
   </a>
 </p>
@@ -100,7 +100,7 @@ Parameters fall into three different categories
   * epidemiological parameters
   * clinical parameters
 
-Most parameters can be adjusted in the tool and for many of them we provide presets.
+Most parameters can be adjusted in the tool and for many of them we provide presets. More parameters can be devloped.
 
 Input data for the tool and the basic parameters of the populations are collected in a separate repository [neherlab/covid19_scenarios_data](https://github.com/neherlab/covid19_scenarios_data). 
 Please add data on populations and parsers of publicly available case count data there. 
